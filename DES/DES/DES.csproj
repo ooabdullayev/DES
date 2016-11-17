@@ -43,8 +43,19 @@
     <Reference Include="System.Xml" />
   </ItemGroup>
   <ItemGroup>
+    <Compile Include="2_18.cs" />
+    <Compile Include="2_19.cs" />
+    <Compile Include="2_2.cs" />
+    <Compile Include="2_4.cs" />
+    <Compile Include="Method.cs" />
+    <Compile Include="MethodProvider.cs" />
+    <Compile Include="PointsAndConditions.cs" />
+    <Compile Include="Problems.cs" />
     <Compile Include="Program.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
+    <Compile Include="Results.cs" />
+    <Compile Include="ResultsRenderer.cs" />
+    <Compile Include="Vector.cs" />
   </ItemGroup>
   <ItemGroup>
     <None Include="App.config" />
